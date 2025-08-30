@@ -40,12 +40,15 @@ This app helps users track their expenses securely with **authentication & autho
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repo
+
 ```bash
 git clone https://github.com/Arkashish/Expense-Tracker.git
 ```
+
 ---
 
 ### 2️⃣ Install dependencies
+
 **Backend:**
 cd backend
 npm install
@@ -57,7 +60,8 @@ npm install
 ---
 
 ### 3️⃣ Environment variables
-Create a .env file in the server folder: 
+
+Create a .env file in the server folder:
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=5000
@@ -91,11 +95,9 @@ Learned to handle password security with bcrypt.
 Practiced error handling & clean code practices in Node.js backend.
 
 ### 👨‍💻 Developer Info
+
 Author: Arkashish Sutradhar
 
-💼 LinkedIn [text](https://www.linkedin.com/in/arkashish-sutradhar/)
+💼 [LinkedIn](https://www.linkedin.com/in/arkashish-sutradhar/)
 
-📂 Portfolio
- (Add if available)
-
-🖥 GitHub: your-username
+🖥 GitHub: [arkashish](https://github.com/Arkashish)
